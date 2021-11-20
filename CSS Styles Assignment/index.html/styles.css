@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+    color: black;
+    font-family: serif;
+    font-size: 1em;
+    padding: 0 30px 30px 30px;
+    border: 10px solid sienna;
+}
+h1{
+    color: sienna;
+    font-family: serif;
+}
+h2{
+    color: sienna;
+    font-family: serif;
+}
+.underline{
+    text-decoration: underline;
+}
+img{
+    display: block;
+}
